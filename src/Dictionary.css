@@ -6,3 +6,30 @@
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
 }
+
+/* Audio Button Styling */
+.audio-button {
+  background-color: #885df1;
+  color: #ffffff;
+  border: none;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin-left: 10px;
+  vertical-align: middle;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+.audio-button:hover {
+  background-color: #6c40d9;
+  transform: scale(1.08);
+}
+
+.audio-button:active {
+  transform: scale(0.95);
+}
