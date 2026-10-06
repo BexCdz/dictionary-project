@@ -13,7 +13,16 @@ import Dictionary from "./Dictionary"
       <main>
         <Dictionary/>
       </main>
-      <footer className="App-footer"><small>Coded by Rebecca</small></footer>
+      <footer className="App-footer">
+  This project was coded by{" "}
+  <a
+    href="https://github.com/BexCdz"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Rebecca
+  </a> <a href="https://github.com/BexCdz/dictionary-project" target="_blank">and is open sourced</a>
+</footer>
       </div>
     </div>
   );
