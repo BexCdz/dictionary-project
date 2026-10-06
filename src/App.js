@@ -21,7 +21,7 @@ import Dictionary from "./Dictionary"
     rel="noopener noreferrer"
   >
     Rebecca
-  </a> <a href="https://github.com/BexCdz/dictionary-project" target="_blank">and is open sourced</a>
+  </a> and is <a href="https://github.com/BexCdz/dictionary-project" target="_blank"> open sourced</a>
 </footer>
       </div>
     </div>
